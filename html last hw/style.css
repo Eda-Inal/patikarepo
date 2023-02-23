@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(203, 119, 209);color: white;
+    
+}
+
+.malzeme{
+    display:inline;
+    background-color: rgb(225, 174, 111);
+}
+.delete{
+    list-style-type: none;
+}
